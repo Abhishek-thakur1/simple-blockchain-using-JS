@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon main.js"
   }
 }
